@@ -1,4 +1,4 @@
-# 👩‍💻 QA Engineer Portfolio – [Your Name]
+# 👩‍💻 QA Engineer Portfolio – [Aqsa Aslam]
 
 👋 Hello! I'm a passionate **Software QA Engineer** with 6+ years of experience in **manual testing** and a recent focus on **test automation**. After taking a 2-year maternity break, I'm now actively upgrading my skills to match the current industry standards and exploring new tools in automation, API, and performance testing.
 
