@@ -68,7 +68,7 @@
 
 - ✉️ [aqsaaslam1234@gmail.com]  
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/aqsa-aslam-932bb2152/)  
-- 📂 [Resume](./AQSA_ASLAM_RESUME.pdf)
+- 📂 [Resume](./Aqsa_Aslam_Resume.pdf)
 
 ---
 
