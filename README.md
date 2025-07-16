@@ -66,8 +66,8 @@
 
 ## 📫 Contact
 
-- ✉️ [your.email@example.com]  
-- 🔗 [LinkedIn Profile](link-to-your-linkedin)  
+- ✉️ [aqsaaslam1234@gmail.com]  
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/aqsa-aslam-932bb2152/)  
 - 📂 [Resume](link-to-your-resume)
 
 ---
